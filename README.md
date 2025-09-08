@@ -34,7 +34,7 @@ matplotlib>=3.7
 You are free to use, modify and distribute the code as long as **authorship is properly acknowledged**. Please reference this repository in derivative works.
 
 ## Citing
-- Tol, Hİ. Development of a physical hydraulic modelling tool for District Heating systems. Energy and Buildings (2021) 253. https://doi.org/10.1016/j.enbuild.2021.111512
+Tol, Hİ. Development of a physical hydraulic modelling tool for District Heating systems. Energy and Buildings (2021) 253. https://doi.org/10.1016/j.enbuild.2021.111512
 
 ## Acknowledgements
 Above all, I give thanks to **Allah, The Creator (C.C.)**, and honor His name **Al-‘Alīm (The All-Knowing)**.
