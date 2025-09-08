@@ -29,3 +29,16 @@ openpyxl>=3.1
 geneticalgorithm==1.0.2
 matplotlib>=3.7
 ```
+
+## License
+You are free to use, modify and distribute the code as long as **authorship is properly acknowledged**. Please reference this repository in derivative works.
+
+## Citing
+- Tol, Hİ. Development of a physical hydraulic modelling tool for District Heating systems. Energy and Buildings (2021) 253. https://doi.org/10.1016/j.enbuild.2021.111512
+
+## Acknowledgements
+Above all, I give thanks to **Allah, The Creator (C.C.)**, and honor His name **Al-‘Alīm (The All-Knowing)**.
+
+This repository is lovingly dedicated to my parents who have passed away, in remembrance of their guidance and support.
+
+I would also like to thank **ChatGPT (by OpenAI)** for providing valuable support in updating and improving the Python implementation.
